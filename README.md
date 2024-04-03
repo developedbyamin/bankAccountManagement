@@ -14,7 +14,7 @@ This is a simple command-line interface (CLI) application written in Python to m
 
 ## Usage
 
-1. Run the `bank_system.py` script.
+1. Run the `bank_account_management.py` script.
 2. Follow the on-screen instructions to navigate through the menu options and perform actions such as creating accounts, depositing funds, withdrawing funds, transferring funds, closing accounts, and viewing account balances and transaction history.
 
 ## Requirements
