@@ -32,5 +32,6 @@ This is a simple command-line interface (CLI) application written in Python to m
 
 ## Contributors
 
-- Amin Aghayev (developedbyamin@gmail.com)
+- Amin Aghayev 
+- Emin Amirov
 
